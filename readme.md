@@ -180,6 +180,7 @@ Goal of this project is simply to gather verified animal care content written by
 - [Cat Health Center - FETCH by WebMD](https://www.webmd.com/pets/cats/default.htm) - Collection of information resources related to cat health.
 - [Catster](https://www.catster.com/) - Information about cat health, behaviour and products. A popular cat blog called "Conscious Cat" is [now part of Catster](https://www.catster.com/lifestyle/conscious-cat-is-now-a-part-of-catster/).
 - [Common Cat Diseases - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care/common-cat-diseases) - Information about diseases and other medical inflictions that frequently impact cats.
+- [Furriq](https://www.furriq.com/breeds) - Free cat breed reference with 61 breed profiles, 121 side-by-side breed comparisons and a photo-based breed identifier that checks 40+ visual markers. No sign-up required and uploaded photos are not stored.
 
 ### Cat Behaviour & Training
 
