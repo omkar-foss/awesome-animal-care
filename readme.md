@@ -42,6 +42,11 @@ Goal of this project is simply to gather verified animal care content written by
   - [Fish Care & Treatment](#fish-care--treatment)
   - [Fish Behaviour & Training](#fish-behaviour--training)
   - [Fish Diet & Nutrition](#fish-diet--nutrition)
+- [Hamsters](#hamsters)
+  - [Hamster Books](#hamster-books)
+  - [Hamster Care and Treatment](#hamster-care--treatment)
+  - [Hamster Behaviour and Training](#hamster-behaviour--training)
+  - [Hamster Diet and Nutrition](#hamster-diet--nutrition)
 - [Horses](#horses)
   - [Horse Books](#horse-books)
   - [Horse Care & Treatment](#horse-care--treatment)
@@ -396,4 +401,4 @@ Your contributions are always welcome! To get started, refer to [contributing.md
 
 ## Footnotes
 
-Since we cannot rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
+When it comes to animal health, we cannot rely on unverified AI/LLM-generated content, so we do not accept contributions with AI/LLM use in any form.
