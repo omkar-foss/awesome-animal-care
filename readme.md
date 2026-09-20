@@ -266,6 +266,7 @@ Goal of this project is simply to gather verified animal care content written by
 - [Aquarium Care and Maintenance: Nutrition and Feeding - FDACS](https://www.fdacs.gov/Consumer-Resources/Recreation-and-Leisure/Aquarium-Fish/Aquarium-Care-and-Maintenance-Nutrition-and-Feeding) - Comprehensive information guide about fish care, maintenance, aquarium components and water quality.
 - [Caring for Fish & Aquariums - The Spruce Pets](https://www.thesprucepets.com/fish-and-aquariums-4162060) - Comprehensive collection of vet-reviewed articles on fishes and aquariums.
 - [Keeping Fish at Home: Fish Nutrition - UK Pet Food](https://www.ukpetfood.org/asset/460B8C22%2DFD50%2D49C9%2D8BD9666E126039AF/) - Concise and illustrative article on fish nutrition and how to choose the right diet for your fish.
+- [FishCare AI](https://www.fishcareai.com/) - Free freshwater fish care guides, species profiles and a fish health library, with calculators for tank size, stocking compatibility, water parameters and feeding.
 - [FishLore](https://www.fishlore.com/) - Provides aquarium fish information for both freshwater and saltwater hobbyists.
 - [Fishkeeper Databank](https://www.fishkeeper.co.uk/databank) - Searchable database of information about fishes, fish food, filters etc.
 - [GallonMath](https://gallonmath.com/) - Free aquarium calculators for tank volume, stocking level, heater size, substrate amount and salinity.
