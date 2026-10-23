@@ -268,6 +268,7 @@ Goal of this project is simply to gather verified animal care content written by
 - [Keeping Fish at Home: Fish Nutrition - UK Pet Food](https://www.ukpetfood.org/asset/460B8C22%2DFD50%2D49C9%2D8BD9666E126039AF/) - Concise and illustrative article on fish nutrition and how to choose the right diet for your fish.
 - [FishLore](https://www.fishlore.com/) - Provides aquarium fish information for both freshwater and saltwater hobbyists.
 - [Fishkeeper Databank](https://www.fishkeeper.co.uk/databank) - Searchable database of information about fishes, fish food, filters etc.
+- [FishReference](https://fishreference.com/tools) - Fish species database with a tankmate compatibility checker, stocking planner, tank volume calculator and beginner aquarium guides.
 - [GallonMath](https://gallonmath.com/) - Free aquarium calculators for tank volume, stocking level, heater size, substrate amount and salinity.
 - [Education Center - LiveAquaria](https://www.liveaquaria.com/general/general.cfm?general_pagesid=176) - Aquarium care related information for various fish species.
 - [Seriously Fish](https://seriouslyfish.com/) - Searchable database of fish species information, also includes a fish care blog.
