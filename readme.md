@@ -397,7 +397,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 ## Contributing
 
-Your contributions are always welcome! To get started, refer to [contributing.md](contributing.md).
+Due to AI-generated spam across several repositories on GitHub, this project is currently not accepting outside contributions. Existing collaborators shall continue maintaining this project as usual by adhering to [contributing.md](contributing.md).
 
 ## Footnotes
 
